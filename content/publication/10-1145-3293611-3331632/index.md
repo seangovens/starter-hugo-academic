@@ -15,8 +15,8 @@ tags:
 - strong linearizability
 - aba
 categories: []
-date: '2019-01-01'
-lastmod: 2022-10-28T14:00:09-04:00
+date: '2019'
+# lastmod: 2022-10-28T14:00:09-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-28T18:00:09.170602Z'
+publishDate: ''
 publication_types:
 - '1'
 abstract: Linearizability is the gold standard of correctness conditions for shared
@@ -57,8 +57,8 @@ abstract: Linearizability is the gold standard of correctness conditions for sha
   implementation of such types, employing an atomic snapshot object. We show that
   this implementation is strongly linearizable, proving that all types in this class
   have a lock-free strongly linearizable implementation from atomic registers.
-publication: '*Proceedings of the 2019 ACM Symposium on Principles of Distributed
-  Computing*'
+publication: 'Proceedings of the 2019 ACM Symposium on Principles of Distributed
+  Computing'
 doi: 10.1145/3293611.3331632
 links:
 - name: URL

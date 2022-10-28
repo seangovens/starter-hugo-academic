@@ -1,14 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Strongly Linearizable Implementations of Fundamental Primitives
+title: The Space Complexity of Scannable Objects with Bounded Components
 subtitle: ''
 summary: ''
 authors:
 - Sean Ovens
-tags: []
+tags:
+- space complexity
+- lower bound
+- shared memory
+- snapshot object
 categories: []
-date: '2019'
+date: '2022'
 # lastmod: 2022-10-28T14:00:10-04:00
 featured: false
 draft: false
@@ -29,11 +33,11 @@ image:
 projects: []
 publishDate: ''
 publication_types:
-- '7'
+- '1'
 abstract: ''
-publication: ''
-doi: 10.11575/PRISM/10182
+publication: '36th International Symposium on Distributed Computing (DISC 2022)'
+doi: 10.4230/LIPIcs.DISC.2022.30
 links:
 - name: URL
-  url: https://prism.ucalgary.ca/handle/1880/110755
+  url: https://drops.dagstuhl.de/opus/volltexte/2022/17221
 ---

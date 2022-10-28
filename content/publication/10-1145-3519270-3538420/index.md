@@ -1,14 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Strongly Linearizable Implementations of Fundamental Primitives
+title: The Space Complexity of Consensus from Swap
 subtitle: ''
 summary: ''
 authors:
 - Sean Ovens
-tags: []
+tags:
+- space complexity
+- lower bound
+- consensus
+- shared memory
 categories: []
-date: '2019'
+date: '2022'
 # lastmod: 2022-10-28T14:00:10-04:00
 featured: false
 draft: false
@@ -29,11 +33,11 @@ image:
 projects: []
 publishDate: ''
 publication_types:
-- '7'
+- '1'
 abstract: ''
-publication: ''
-doi: 10.11575/PRISM/10182
+publication: 'Proceedings of the 2022 ACM Symposium on Principles of Distributed Computing'
+doi: 10.1145/3519270.3538420
 links:
 - name: URL
-  url: https://prism.ucalgary.ca/handle/1880/110755
+  url: https://dl.acm.org/doi/abs/10.1145/3519270.3538420
 ---

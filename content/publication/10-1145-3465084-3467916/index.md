@@ -12,8 +12,8 @@ tags:
 - space complexity
 - snapshot object
 categories: []
-date: '2021-01-01'
-lastmod: 2022-10-28T14:00:09-04:00
+date: '2021'
+# lastmod: 2022-10-28T14:00:09-04:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-28T17:59:24.711210Z'
+publishDate: ''
 publication_types:
 - '1'
 abstract: "Determining a consistent view of the contents of a shared array while its\
@@ -55,8 +55,8 @@ abstract: "Determining a consistent view of the contents of a shared array while
   \ of 1-bit base objects, nearly matching our lower bound when n łeq 2^k-1 + 2. There\
   \ is a known wait-free, single-updater implementation that uses 2^k base objects,\
   \ nearly matching our lower bound when n ≥ 2^k-2."
-publication: '*Proceedings of the 2021 ACM Symposium on Principles of Distributed
-  Computing*'
+publication: 'Proceedings of the 2021 ACM Symposium on Principles of Distributed
+  Computing'
 doi: 10.1145/3465084.3467916
 links:
 - name: URL

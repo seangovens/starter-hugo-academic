@@ -1,0 +1,18 @@
+@inproceedings{10.1145/3465084.3467916,
+ abstract = {Determining a consistent view of the contents of a shared array while its components are being modified is a fundamental task in distributed algorithm design. Snapshot objects address this problem when read/write registers are components of the array. A natural generalization of a snapshot object is a scannable object, an object with multiple components that each support Read and some other operations. Scannable objects also support the Scan operation, which provides an instantaneous view of all the object's components. This raises the question: How many instances of objects in some set O are required to implement a scannable object whose components are in O In this paper, we consider scannable binary objects, whose components are arbitrary 1-bit objects. If each component is a test-and-set object, there is a simple implementation using k test-and-set objects. However, when each component is non-monotonic (i.e. can change from 0 to 1 and from 1 to 0), we prove that more objects are needed. Specifically, when n ≤ 2^k-1 + 2, we show a lower bound of n + k - 2 base objects, even for obstruction-free, single-updater implementations. When n ≥ 2^k-2, we prove that 2^k-1 base objects are required for obstruction-free, single-updater implementations. When 2^k-1 +2 &lt; n &lt; 2^k-2, we show a gradual transition between these two lower bounds. We show that there is a lock-free implementation of an n-process, scannable binary object with k components from n + k instances of 1-bit base objects, nearly matching our lower bound when n łeq 2^k-1 + 2. There is a known wait-free, single-updater implementation that uses 2^k base objects, nearly matching our lower bound when n ≥ 2^k-2.},
+ address = {New York, NY, USA},
+ author = {Ovens, Sean},
+ booktitle = {Proceedings of the 2021 ACM Symposium on Principles of Distributed Computing},
+ doi = {10.1145/3465084.3467916},
+ isbn = {9781450385480},
+ keywords = {lower bound, shared memory, space complexity, snapshot object},
+ location = {Virtual Event, Italy},
+ numpages = {11},
+ pages = {509–519},
+ publisher = {Association for Computing Machinery},
+ series = {PODC'21},
+ title = {The Space Complexity of Scannable Binary Objects},
+ url = {https://doi.org/10.1145/3465084.3467916},
+ year = {2021}
+}
+

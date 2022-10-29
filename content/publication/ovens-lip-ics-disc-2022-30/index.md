@@ -12,7 +12,7 @@ tags:
 - shared memory
 - snapshot object
 categories: []
-date: '2022'
+date: '2022-10-17'
 # lastmod: 2022-10-28T14:00:10-04:00
 featured: false
 draft: false

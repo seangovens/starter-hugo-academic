@@ -35,7 +35,7 @@ publishDate: ''
 publication_types:
 - '1'
 abstract: ''
-publication: 'Proceedings of the 2022 ACM Symposium on Principles of Distributed Computing'
+publication: 'Proceedings of the 2022 ACM Symposium on Principles of Distributed Computing. **Received the Best Paper Award**'
 doi: 10.1145/3519270.3538420
 links:
 - name: URL

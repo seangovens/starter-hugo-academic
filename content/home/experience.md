@@ -25,7 +25,7 @@ experience:
   - title: Teaching Assistant
     company: University of Toronto
     company_url: ''
-    company_logo: uoft
+    #company_logo: uoft
     location: Toronto
     date_start: '2019-09-01'
     date_end: ''
@@ -46,7 +46,7 @@ experience:
   - title: Instructor
     company: University of Toronto
     company_url: ''
-    company_logo: uoft
+    #company_logo: uoft
     location: Toronto
     date_start: '2022-05-01'
     date_end: '2022-09-07'
@@ -57,7 +57,7 @@ experience:
   - title: Teaching Assistant
     company: University of Calgary
     company_url: ''
-    company_logo: uofc
+    #company_logo: uofc
     location: Calgary
     date_start: '2017-09-01'
     date_end: '2019-06-01'

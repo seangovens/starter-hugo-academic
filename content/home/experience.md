@@ -29,8 +29,7 @@ experience:
     location: Toronto
     date_start: '2022-05-01'
     date_end: '2022-09-07'
-    description: |2-
-        CSC263: Data Structures and Analysis. Responsibilities included
+    description: "CSC263: Data Structures and Analysis. Responsibilities included"
 
   - title: Teaching Assistant
     company: University of Toronto

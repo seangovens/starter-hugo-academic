@@ -22,19 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Instructor
-    company: University of Toronto
-    company_url: ''
-    #company_logo: uoft
-    location: Toronto
-    date_start: '2022-05-01'
-    date_end: '2022-09-07'
-    description: "CSC263: Data Structures and Analysis. Responsibilities included"
-
   - title: Teaching Assistant
     company: University of Toronto
     company_url: ''
-    #company_logo: uoft
+    company_logo: uoft
     location: Toronto
     date_start: '2019-09-01'
     date_end: ''
@@ -50,21 +41,36 @@ experience:
         * CSC2221: Introduction to the Theory of Distributed Computing (Fall 2020, Fall 2021)
         * CSC236: Introduction to the Theory of Computing (Fall 2019, Winter 2020, Summer 2020)
 
-    #- title: Teaching Assistant
-      #company: University of Calgary
-      #company_url: ''
-      #company_logo: uofc
-      #location: Calgary
-      #date_start: '2017-09-01'
-      #date_end: '2019-06-01'
-      #description: |2-
-          #Responsibilities included marking assessments, preparing and delivering tutorials, holding office hours, and occasionally conducting lectures.
 
-          #I was a TA for the following courses:
 
-          #* CPSC319: Data Structures, Algorithms, and their Applications (Winter 2019)
-          #* CPSC413: Design and Analysis of Algorithms I (Winter 2018, Summer 2018)
-          #* CPSC313: Introduction to Computability (Fall 2017)
+  - title: Instructor
+    company: University of Toronto
+    company_url: ''
+    company_logo: uoft
+    location: Toronto
+    date_start: '2022-05-01'
+    date_end: '2022-09-07'
+    description: "CSC263: Data Structures and Analysis. Responsibilities included"
+
+
+
+  - title: Teaching Assistant
+    company: University of Calgary
+    company_url: ''
+    company_logo: uofc
+    location: Calgary
+    date_start: '2017-09-01'
+    date_end: '2019-06-01'
+    description: |2-
+        Responsibilities included marking assessments, preparing and delivering tutorials, holding office hours, and occasionally conducting lectures.
+
+        I was a TA for the following courses:
+
+        * CPSC319: Data Structures, Algorithms, and their Applications (Winter 2019)
+        * CPSC413: Design and Analysis of Algorithms I (Winter 2018, Summer 2018)
+        * CPSC313: Introduction to Computability (Fall 2017)
+
+
 
 design:
   columns: '2'

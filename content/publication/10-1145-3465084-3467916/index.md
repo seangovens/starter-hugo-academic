@@ -12,7 +12,7 @@ tags:
 - space complexity
 - snapshot object
 categories: []
-date: '2021'
+date: '2021-07-23'
 # lastmod: 2022-10-28T14:00:09-04:00
 featured: false
 draft: false

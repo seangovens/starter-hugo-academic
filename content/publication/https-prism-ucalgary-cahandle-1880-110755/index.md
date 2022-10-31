@@ -8,7 +8,7 @@ authors:
 - Sean Ovens
 tags: []
 categories: []
-date: '2019'
+date: '2019-08-21'
 # lastmod: 2022-10-28T14:00:10-04:00
 featured: false
 draft: false

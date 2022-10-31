@@ -15,7 +15,7 @@ tags:
 - strong linearizability
 - aba
 categories: []
-date: '2019'
+date: '2019-07-16'
 # lastmod: 2022-10-28T14:00:09-04:00
 featured: false
 draft: false

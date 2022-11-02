@@ -12,7 +12,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: dblp
-    icon_pack: fas
+    icon_pack: ai
     link: https://dblp.org/pid/245/1497
   - icon: github
     icon_pack: fab

@@ -25,7 +25,7 @@ content:
       #captcha: false
 
   # Contact details (edit or remove options as required)
-  email: sean.ovens@mail.utoronto.ca
+  email: sgovens@cs.toronto.edu
   #phone: 888 888 88 88
   #address:
     #street: 450 Serra Mall

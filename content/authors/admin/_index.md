@@ -37,8 +37,6 @@ highlight_name: true
 first_name: Sean
 email: ""
 ---
-Sean Ovens is a PhD candidate at the University of Toronto.
+I am a PhD candidate at the University of Toronto. My research focus is the theory of distributed computing. I am particularly interested in proving lower bounds on the time and space complexities of distributed algorithms. I also enjoy studying concurrent data structures, randomized algorithms, and recoverable object implementations.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Sean_Ovens.pdf" "newtab" >}}CV{{< /staticref >}}.

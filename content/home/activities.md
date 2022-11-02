@@ -30,15 +30,15 @@ item:
     organization: University of Toronto
     organization_url: ''
     title: Volunteer - Graduate Application Assistance Program
-    url: ''
+    url: https://sites.google.com/view/torontogaap
   - certificate_url: ''
     date_end: ''
     date_start: '2022-04-01'
-    description: Interviewed senior undergraduate students whose studies were interrupted by the Russian invasion of Ukraine.
+    description: Interviewed undergraduate students whose studies were interrupted by the Russian invasion of Ukraine.
     organization: University of Toronto
     organization_url: ''
     title: Volunteer - Summer Program for Students from Ukraine
-    url: ''
+    url: https://web.cs.toronto.edu/summer-program-for-students-from-ukraine
   - certificate_url: ''
     date_end: '2019-06-01'
     date_start: '2015-09-01'

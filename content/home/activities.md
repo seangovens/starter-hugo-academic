@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: ''
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  #- date_start: '2020-12-01'
-    #description: 'Reviewed papers for STOC2021, PODC2021, STOC2022, and PODC2022 (2 papers).'
-    #title: 'Conference Paper Reviews'
-    #organization: ''
+  - date_start: '2020-12-01'
+    description: 'Reviewed papers for STOC2021, PODC2021, STOC2022, and PODC2022 (2 papers).'
+    title: 'Conference Paper Reviews'
+    organization: ''
   - certificate_url: ''
     date_end: ''
     date_start: '2022-10-01'

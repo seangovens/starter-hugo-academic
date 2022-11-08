@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: ''
+date_format: 'Jan 2006'
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -26,7 +26,7 @@ item:
   - date_start: '2020-12-01'
     description: 'Reviewed papers for STOC2021, PODC2021, STOC2022, and PODC2022 (2 papers).'
     title: 'Conference Paper Reviews'
-    organization: ''
+    organization: 'University of Toronto'
   - certificate_url: ''
     date_end: ''
     date_start: '2022-10-01'
@@ -43,6 +43,11 @@ item:
     organization_url: ''
     title: Volunteer - Summer Program for Students from Ukraine
     url: https://web.cs.toronto.edu/summer-program-for-students-from-ukraine
+  - date_start: '2018-10-16'
+    description: 'Worked with a team to design a prototype of a shoulder-mounted robotic assistant.'
+    organization: University of Calgary
+    title: Participant - UIST 2018 Student Innovation Contest
+    url: https://uist.acm.org/uist2018/call-for-participation
   - certificate_url: ''
     date_end: '2019-06-01'
     date_start: '2015-09-01'

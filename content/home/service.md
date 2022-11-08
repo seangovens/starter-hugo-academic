@@ -1,16 +1,16 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: blank
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 110
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Activities & Service'
+title: 'Service'
 subtitle:
 
 # Date format
@@ -43,15 +43,7 @@ item:
     organization_url: ''
     title: Volunteer - Summer Program for Students from Ukraine
     url: https://web.cs.toronto.edu/summer-program-for-students-from-ukraine
-  - certificate_url: ''
-    date_end: '2019-06-01'
-    date_start: '2015-09-01'
-    description: |2-
-      Attended weekly meetings in which members discussed competitive programming topics, held mock competitions, and prepared various workshops for students in computer science and engineering. I had the opportunity to attend programming competitions at several levels, including the Calgary Microsoft College Code Competition (earned 2nd place in 2016), the Calgary Collegiate Programming Contest (earned 5th place in 2018), the Alberta Collegiate Programming Contest (earned 12th place in 2016), and the Rocky Mountain Regional Programming Contest (earned 6th place in 2016).
-    organization: University of Calgary
-    organization_url: ''
-    title: Member - Competitive Programming Club
-    url: https://cpc.cpsc.ucalgary.ca/
+
 
 design:
   columns: '2'

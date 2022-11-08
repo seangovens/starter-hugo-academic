@@ -16,6 +16,9 @@ main:
   - name: Activities
     url: '#activities'
     weight: 40
+  - name: Service
+    url: '#service'
+    weight: 45
   - name: Contact
     url: '#contact'
     weight: 50

@@ -23,12 +23,15 @@ date_format: 'Jan 2006'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_start: '2020-12-01'
-    description: 'Reviewed papers for STOC2021, PODC2021, STOC2022, and PODC2022 (2 papers).'
-    title: 'Conference Paper Reviews'
-    organization: 'University of Toronto'
   - certificate_url: ''
-    date_end: ''
+    date_start: '2022-01-03'
+    date_end: '2023-01-03'
+    description: Identified and practiced several fundamental skills in teaching, including course and assessment design, learning analytics, hybrid teaching strategies, and cultural humility.
+    organization: University of Toronto
+    organization_url: ''
+    title: Teaching Fundamentals Certificate
+    url: https://tatp.utoronto.ca/certificate-program/tf-certificate/
+  - certificate_url: ''
     date_start: '2022-10-01'
     description: Reviewed draft graduate school applications for prospective students in computer science.
     organization: University of Toronto

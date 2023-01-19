@@ -36,6 +36,7 @@ experience:
 
         So far, I have been a TA for the following courses:
 
+        * CSC2415: Advanced Topics in the Theory of Distributed Computing (Winter 2023)
         * CSC265: Enriched Data Structures and Analysis (Fall 2022)
         * CSC263: Data Structures and Analysis, _Head TA_ (Winter 2021, Winter 2022)
         * CSC2221: Introduction to the Theory of Distributed Computing (Fall 2020, Fall 2021)

@@ -13,7 +13,7 @@ tags:
 - lower bound
 - shared memory
 categories: []
-date: '2022-10-17'
+date: '2023-10-31'
 # lastmod: 2022-10-28T14:00:10-04:00
 featured: false
 draft: false
@@ -36,9 +36,5 @@ publishDate: ''
 publication_types:
 - '1'
 abstract: ''
-publication: '36th International Symposium on Distributed Computing (DISC 2022)'
-doi: 10.4230/LIPIcs.DISC.2022.30
-links:
-- name: URL
-  url: https://drops.dagstuhl.de/opus/volltexte/2022/17221
+publication: 'To appear at the 37th International Symposium on Distributed Computing (DISC 2022)'
 ---

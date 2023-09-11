@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Brief Announcement: The Space Complexity of Set Agreement Using Swap'
+title: The Space Complexity of Set Agreement Using Swap
 subtitle: ''
 summary: ''
 authors:

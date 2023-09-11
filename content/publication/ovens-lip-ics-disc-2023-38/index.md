@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Space Complexity of Set Agreement Using Swap
+title: 'Brief Announcement: The Space Complexity of Set Agreement Using Swap'
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +13,7 @@ tags:
 - lower bound
 - shared memory
 categories: []
-date: '2022-10-18'
+date: '2023-10-31'
 # lastmod: 2022-10-28T14:00:10-04:00
 featured: false
 draft: false

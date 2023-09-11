@@ -1,6 +1,6 @@
 ---
 title: Sean Ovens
-role: PhD Candidate
+role: Postdoctoral Fellow
 bio: My research interests include data structures, lower bounds, and
   impossibility results in distributed computing.
 interests:
@@ -18,13 +18,13 @@ social:
     icon_pack: fab
     link: https://github.com/seangovens
 organizations:
-  - name: University of Toronto
+  - name: University of Waterloo
     url: ""
 education:
   courses:
     - course: PhD in Computer Science
       institution: University of Toronto
-      year: Expected 2023
+      year: 2023
     - course: MSc in Computer Science
       institution: University of Calgary
       year: 2019
@@ -37,6 +37,6 @@ highlight_name: true
 first_name: Sean
 email: ""
 ---
-I am a PhD candidate at the University of Toronto. My research focus is the theory of distributed computing. I am particularly interested in proving lower bounds on the time and space complexities of distributed algorithms. I also enjoy studying concurrent data structures, randomized algorithms, and recoverable object implementations.
+I am a Postdoctoral Fellow at the University of Waterloo. My research focus is the theory of distributed computing. I am particularly interested in proving lower bounds on the time and space complexities of distributed algorithms. I also enjoy studying concurrent data structures, randomized algorithms, and recoverable algorithms.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Sean_Ovens.pdf" "newtab" >}}CV{{< /staticref >}}.

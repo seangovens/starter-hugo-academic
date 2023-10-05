@@ -24,6 +24,9 @@ image:
   focal_point: ""
   preview_only: false
 summary: ""
-date: 2023-10-5
-publishDate: ""
+date: "2023-10-5"
+publishDate: "2023-10-5"
+links:
+- name: URL
+  url: https://drops.dagstuhl.de/opus/volltexte/2023/19172
 ---

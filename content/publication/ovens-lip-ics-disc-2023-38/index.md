@@ -7,7 +7,7 @@ authors:
   - Sean Ovens
 publication: 37th International Symposium on Distributed
   Computing (DISC 2023)
-doi: 10.4230/LIPIcs.DISC.2023.38
+doi: 10.4230/LIPIcs.DISC.2023.46
 abstract: ""
 draft: false
 featured: false
@@ -24,6 +24,6 @@ image:
   focal_point: ""
   preview_only: false
 summary: ""
-date: 2023-10-12
+date: 2023-10-5
 publishDate: ""
 ---

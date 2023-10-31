@@ -19,7 +19,7 @@ publishDate: ''
 
 # Publication name and optional abbreviated publication name.
 publication: '*Journal of the ACM*'
-publication_short: ''
+publication_short: 'J. ACM'
 
 doi: 10.1145/3631390
 
@@ -67,5 +67,3 @@ links:
 - name: URL
   url: https://doi.org/10.1145/3631390
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

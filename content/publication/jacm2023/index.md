@@ -66,6 +66,8 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+publication_types:
+- '2'
 links:
 - name: URL
   url: https://doi.org/10.1145/3631390

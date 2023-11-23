@@ -58,7 +58,7 @@ abstract: Linearizability is the gold standard of correctness conditions for sha
   this implementation is strongly linearizable, proving that all types in this class
   have a lock-free strongly linearizable implementation from atomic registers.
 publication: 'Proceedings of the 2019 ACM Symposium on Principles of Distributed
-  Computing'
+  Computing (PODC 2019)'
 doi: 10.1145/3293611.3331632
 links:
 - name: URL

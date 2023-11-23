@@ -56,7 +56,7 @@ abstract: "Determining a consistent view of the contents of a shared array while
   \ is a known wait-free, single-updater implementation that uses 2^k base objects,\
   \ nearly matching our lower bound when n ≥ 2^k-2."
 publication: 'Proceedings of the 2021 ACM Symposium on Principles of Distributed
-  Computing'
+  Computing (PODC 2021)'
 doi: 10.1145/3465084.3467916
 links:
 - name: URL

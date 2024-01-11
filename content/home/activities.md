@@ -33,10 +33,10 @@ item:
     url: https://tatp.utoronto.ca/certificate-program/tf-certificate/
   - certificate_url: ''
     date_start: '2022-10-01'
-    description: Reviewed draft graduate school applications for prospective students in computer science.
+    description: Assisted several prospective graduate students through the graduate school application process. This included reviewing and editing cover letters and academic CVs.
     organization: University of Toronto
     organization_url: ''
-    title: Volunteer - Graduate Application Assistance Program
+    title: Mentor - Graduate Application Assistance Program
     url: https://sites.google.com/view/torontogaap
   - certificate_url: ''
     date_end: ''
@@ -44,7 +44,7 @@ item:
     description: Interviewed undergraduate students whose studies were interrupted by the Russian invasion of Ukraine.
     organization: University of Toronto
     organization_url: ''
-    title: Volunteer - Summer Program for Students from Ukraine
+    title: Interviewer - Summer Program for Students from Ukraine
     url: https://web.cs.toronto.edu/summer-program-for-students-from-ukraine
   - date_start: '2018-10-16'
     description: 'Worked with a team to design a prototype of a shoulder-mounted robotic assistant.'

@@ -28,9 +28,9 @@ experience:
     #company_logo: uoft
     location: Toronto
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2023-04-30'
     description: |2-
-        Responsibilities include marking assessments, preparing and delivering tutorials, and holding office hours.
+        Responsibilities included marking assessments, preparing and delivering tutorials, and holding office hours.
 
         As a Head TA, I managed other TAs, prepared marking guidelines, ensured assessments were graded in a timely manner, and communicated directly with the course instructor.
 

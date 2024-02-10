@@ -26,7 +26,7 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2024-01-10'
-    description: Lead an object-oriented programming workshop as part of a program aimed to encourage underrepresented groups to participate in AI research.
+    description: Lead an object-oriented programming workshop as part of a program that provided an opportunity for underrepresented groups to participate in AI research.
     organization: University of Calgary
     organization_url: ''
     title: Workshop Instructor - AI Research School

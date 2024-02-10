@@ -24,6 +24,14 @@ date_format: 'Jan 2006'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: ''
+    date_end: ''
+    date_start: '2024-01-10'
+    description: Lead an object-oriented programming workshop as part of a program aimed to encourage underrepresented groups to participate in AI research.
+    organization: University of Calgary
+    organization_url: ''
+    title: Workshop Instructor - AI Research School
+    url: https://www.vision-research.ca/ai-research-school
+  - certificate_url: ''
     date_start: '2022-01-03'
     date_end: '2023-01-03'
     description: Identified and practiced several fundamental skills in teaching, including course and assessment design, learning analytics, hybrid teaching strategies, and cultural humility.

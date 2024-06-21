@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3662158.3662775,
+author = {Ovens, Sean},
+title = {Determining Recoverable Consensus Numbers},
+year = {2024},
+isbn = {9798400706684},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3662158.3662775},
+doi = {10.1145/3662158.3662775},
+abstract = {Herlihy's wait-free consensus hierarchy classifies the power of object types in asynchronous shared memory systems where processes can permanently crash (i.e. stop taking steps). In this hierarchy a type has consensus number n if objects of that type can be used along with (read/write) registers to solve consensus among n processes that can permanently crash, but not among n + 1 or more processes. In systems where processes can recover after crashing, the power of an object type to solve consensus may be different. Golab's recoverable consensus hierarchy classifies the power of object types in such a system. In the recoverable consensus hierarchy, a type has recoverable consensus number n if objects of that type can be used along with registers to solve consensus among n processes that can recover after crashing, but not among n + 1 or more processes. In this paper, we prove that the recoverable consensus hierarchy of deterministic, readable types is robust, i.e., if consensus can be solved among n processes that can recover after crashing using a collection of objects of deterministic, readable types, then one of these types has recoverable consensus number at least n. This is important for comparing the relative computational power of different deterministic, readable types, because it implies that one cannot combine various objects to obtain an algorithm that is better at solving recoverable consensus than any of the individual object types. Our result can be used to show that, for all n ≥ 4, there exists a readable type with consensus number n and recoverable consensus number n − 2. We also show that, for all n > n′ ≥ 1, there exists a non-readable type that has consensus number n and recoverable consensus number n′.},
+booktitle = {Proceedings of the 43rd ACM Symposium on Principles of Distributed Computing},
+pages = {3–13},
+numpages = {11},
+keywords = {recoverable consensus, shared memory, non-volatile memory, wait-free hierarchy},
+location = {<conf-loc>, <city>Nantes</city>, <country>France</country>, </conf-loc>},
+series = {PODC '24}
+}

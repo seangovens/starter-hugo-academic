@@ -37,6 +37,6 @@ highlight_name: true
 first_name: Sean
 email: ""
 ---
-I am a postdoctoral fellow at the University of Waterloo. My research focus is the theory of distributed computing. I am particularly interested in proving lower bounds on the time and space complexities of distributed algorithms. I also enjoy studying concurrent data structures, randomized algorithms, and recoverable algorithms.
+I am a postdoctoral fellow at the University of Waterloo. My research focus is the theory of distributed computing. I am particularly interested in proving lower bounds on the time and space complexities of distributed algorithms. I also enjoy studying concurrent data structures, randomized algorithms, and performance profilers and visualizations for multithreaded applications.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Sean_Ovens.pdf" "newtab" >}}CV{{< /staticref >}}.
